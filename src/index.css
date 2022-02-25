@@ -65,3 +65,8 @@ nav a:active {
 #about a {
   display: block;
 }
+
+#links {
+  align-items: center;
+  text-align: center;
+}
